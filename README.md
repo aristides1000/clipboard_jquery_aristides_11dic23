@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://aristides1000.github.io/clipboard_jquery_aristides_11dic23/)
 
 
 ## Getting Started
